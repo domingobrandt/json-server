@@ -1,8 +1,0 @@
-public/images/*.png
-
-### macOS ###
-# General
-.DS_Store
-
-# Portable Network Graphics
-*.png
